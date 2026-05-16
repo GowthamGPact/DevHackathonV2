@@ -1,0 +1,27 @@
+
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SRABATCH.
+
+       ENVIRONMENT DIVISION.
+
+       DATA DIVISION.
+
+       WORKING-STORAGE SECTION.
+       01 WS-END             PIC X VALUE 'N'.
+
+       PROCEDURE DIVISION.
+
+           DISPLAY 'PROCESS STARTED'.
+
+           PERFORM UNTIL WS-END = 'Y'
+
+               DISPLAY 'VALIDATING CUSTOMER RECORD'
+
+               MOVE 'Y' TO WS-END
+
+           END-PERFORM.
+
+           DISPLAY 'PROCESS COMPLETED'.
+
+           STOP RUN.
+    
