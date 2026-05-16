@@ -1,0 +1,6 @@
+
+//sra-05 JOB (ACCT),'SRA'
+//STEP01 EXEC PGM=sra05
+//SYSOUT DD SYSOUT=*
+//SYSPRINT DD SYSOUT=*
+    

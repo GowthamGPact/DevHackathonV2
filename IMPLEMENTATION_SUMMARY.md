@@ -2,13 +2,13 @@
 # IMPLEMENTATION SUMMARY
 
 ## JIRA
-SRA-04
+sra-05
 
 ## REQUIREMENT
 Create a batch cobol program to Validate customer records
 
 ## IMPACTS
-jcl,cobol,copybook
+
 
 ## GENERATED COMPONENTS
 
