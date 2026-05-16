@@ -2,7 +2,7 @@
 # IMPLEMENTATION SUMMARY
 
 ## JIRA
-SRA-04
+SRA-06
 
 ## REQUIREMENT
 Create a batch cobol program to Validate customer records
