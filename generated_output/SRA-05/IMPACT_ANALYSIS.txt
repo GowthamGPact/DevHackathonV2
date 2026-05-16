@@ -1,0 +1,9 @@
+
+JIRA ID:
+SRA-05
+
+REQUIREMENT:
+Create a batch cobol program to Validate customer records
+
+IMPACTS:
+
