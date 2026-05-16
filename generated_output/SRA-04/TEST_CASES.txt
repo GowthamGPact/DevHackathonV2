@@ -1,0 +1,7 @@
+
+TEST CASES
+
+1. Validate valid customer record
+2. Validate duplicate customer record
+3. Validate invalid file layout
+4. Validate downstream integration
